@@ -36,7 +36,7 @@ $Descr A4 11693 8268
 encoding utf-8
 Sheet 1 1
 Title ""
-Date "19 feb 2014"
+Date "12 mar 2014"
 Rev ""
 Comp ""
 Comment1 ""
@@ -936,4 +936,8 @@ Wire Wire Line
 Connection ~ 1100 3150
 Wire Wire Line
 	2200 3750 1950 3750
+Text Notes 7350 7550 0    60   ~ 0
+DDS                  David Mebane (Digikutz)9@gmail.com
+Text Notes 10700 7650 0    60   ~ 0
+0.1a
 $EndSCHEMATC
